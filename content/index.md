@@ -1,8 +1,7 @@
 ---
 seo:
-  title: Nuxt UI Pro - Docs template
-  description: Nuxt UI Pro is a collection of premium Vue components built on top
-    of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+  title: RX Scripts - Documentation
+  description: RX Scripts offers premium FiveM scripts to enhance your roleplay server. Find complete documentation for installation, configuration, and customization of all our products.
 ---
 
 ::u-page-hero
@@ -20,10 +19,10 @@ orientation: horizontal
   :::
 
 #title
-Build your docs with Nuxt UI Pro
+Elevate FiveM Server with RX
 
 #description
-Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive applications in minutes.
+RX Scripts offers premium FiveM scripts to enhance your roleplay server. Find complete documentation for installation, configuration, and customization of all our products.
 
 #links
   :::u-button
@@ -35,7 +34,7 @@ Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to cre
   Get started
   :::
 
-  :::u-button
+  <!-- :::u-button
   ---
   color: neutral
   icon: i-simple-icons-github
@@ -45,12 +44,12 @@ Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to cre
   variant: subtle
   ---
   Use this template
-  :::
+  ::: -->
 ::
 
 ::u-page-section
 #title
-All-in-one documentation template
+High Quality Scripts
 
 #links
   :::u-button
@@ -62,86 +61,74 @@ All-in-one documentation template
   trailingIcon: i-lucide-arrow-right
   variant: subtle
   ---
-  Discover Nuxt UI Pro v3
+  Discover Our Scripts
   :::
 
 #features
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxt
-  target: _blank
-  to: https://nuxt.com
+  icon: i-heroicons-cog
   ---
   #title
-  Nuxt 3
+  Easy Setup
   
   #description
-  Powered by Nuxt 3 for optimal performances and SEO.
+  Our scripts are easy to set up and use. You can have the scripts running in no time.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-markdown
-  target: _blank
-  to: https://content.nuxt.com
+  icon: i-heroicons-check
   ---
   #title
-  Markdown
+  Active Support
   
   #description
-  Write your pages with MDC thanks to Nuxt Content.
+  Our support team is always ready to help you with any issues you might have.
   :::
 
   :::u-page-feature
   ---
-  icon: i-lucide-sparkles
-  target: _blank
-  to: https://ui.nuxt.com
+  icon: i-heroicons-lock-closed
   ---
   #title
-  Nuxt UI v3
+  Secure
   
   #description
-  Offers a very large set of full customizable components.
+  Our scripts are secure and safe to use. Offering no vulnerabilities to abuse.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-typescript
-  target: _blank
-  to: https://www.typescriptlang.org
+  icon: i-heroicons-rocket-launch
   ---
   #title
-  TypeScript
+  Optimized
   
   #description
-  A fully typed development experience.
+  Optimized for performance, our scripts are lightweight and won't slow down your server.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxtdotjs
-  target: _blank
-  to: https://content.nuxt.com/docs/studio
+  icon: i-heroicons-currency-dollar
   ---
   #title
-  Nuxt Studio
-  
+  Updates
+
   #description
-  Supported by Nuxt Studio for fast updates and previews.
+  We are constantly updating our scripts to make sure you have the best experience possible.
   :::
 
   :::u-page-feature
   ---
-  icon: i-lucide-search
-  target: _blank
-  to: https://ui.nuxt.com/components/content-search
+  icon: i-heroicons-chart-bar
   ---
   #title
-  Search
+  Compatibility
   
   #description
-  A full-text search modal powered by Fuse.js.
+  We provide scripts for ESX, QBCore & QBox, with all dependency scripts code open-source.
   :::
 ::
 

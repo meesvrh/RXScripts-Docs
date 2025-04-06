@@ -47,10 +47,8 @@ const { header } = useAppConfig()
       #left
     >
       <NuxtLink :to="header?.to || '/'">
-        <LogoPro class="w-auto h-6 shrink-0" />
+        <img src="/logoscripts.webp" alt="RX Scripts Logo" class="w-28" />
       </NuxtLink>
-
-      <TemplateMenu />
     </template>
 
     <template #right>

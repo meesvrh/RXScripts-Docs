@@ -17,4 +17,16 @@
   --color-green-800: #016538;
   --color-green-900: #0A5331;
   --color-green-950: #052E16;
+
+  --color-rx-50: #FEDDE9;
+  --color-rx-100: #FCBAD3;
+  --color-rx-200: #FA76A6;
+  --color-rx-300: #F7317A;
+  --color-rx-400: #D80955;
+  --color-rx-500: #95063B;
+  --color-rx-600: #76052E;
+  --color-rx-700: #580423;
+  --color-rx-800: #3B0217;
+  --color-rx-900: #1D010C;
+  --color-rx-950: #0F0106;
 }

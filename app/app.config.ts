@@ -1,7 +1,7 @@
 export default defineAppConfig({
   ui: {
     colors: {
-      primary: 'green',
+      primary: 'rx',
       neutral: 'slate'
     }
   },
@@ -14,7 +14,7 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt UI Pro - Docs template'
+    siteName: 'RX Scripts - Documentation'
   },
   header: {
     title: '',
@@ -27,35 +27,40 @@ export default defineAppConfig({
     search: true,
     colorMode: true,
     links: [{
-      'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt-ui-pro/docs',
+      'icon': 'i-heroicons-building-storefront-solid',
+      'to': 'https://store.rxscripts.xyz/',
       'target': '_blank',
-      'aria-label': 'GitHub'
+      'aria-label': 'Webstore'
+    },{
+      'icon': 'i-simple-icons-discord',
+      'to': 'https://discord.gg/rxscripts',
+      'target': '_blank',
+      'aria-label': 'Discord'
+    }, {
+      'icon': 'i-simple-icons-youtube',
+      'to': 'https://youtube.com/@rxscriptsxyz',
+      'target': '_blank',
+      'aria-label': 'Youtube'
     }]
   },
   footer: {
     credits: `Copyright © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-nuxtdotjs',
-      'to': 'https://nuxt.com',
+      'icon': 'i-heroicons-building-storefront-solid',
+      'to': 'https://store.rxscripts.xyz/',
       'target': '_blank',
-      'aria-label': 'Nuxt Website'
-    }, {
+      'aria-label': 'Webstore'
+    },{
       'icon': 'i-simple-icons-discord',
-      'to': 'https://discord.com/invite/ps2h6QT',
+      'to': 'https://discord.gg/rxscripts',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on Discord'
+      'aria-label': 'Discord'
     }, {
-      'icon': 'i-simple-icons-x',
-      'to': 'https://x.com/nuxt_js',
+      'icon': 'i-simple-icons-youtube',
+      'to': 'https://youtube.com/@rxscriptsxyz',
       'target': '_blank',
-      'aria-label': 'Nuxt on X'
-    }, {
-      'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
-      'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'Youtube'
     }]
   },
   toc: {
