@@ -10,11 +10,11 @@ orientation: horizontal
 ---
   :::prose-pre
   ---
-  code: npx nuxi init -t github:nuxt-ui-pro/docs
-  filename: Terminal
+  code: setup rx -f esx qbcore qbox
+  filename: RX Scripts
   ---
   ```bash
-  npx nuxi init -t github:nuxt-ui-pro/docs
+  setup rx -f esx qbcore qbox
   ```
   :::
 
@@ -33,18 +33,6 @@ RX Scripts offers premium FiveM scripts to enhance your roleplay server. Find co
   ---
   Get started
   :::
-
-  <!-- :::u-button
-  ---
-  color: neutral
-  icon: i-simple-icons-github
-  size: xl
-  target: _blank
-  to: https://github.com/nuxt-ui-pro/docs
-  variant: subtle
-  ---
-  Use this template
-  ::: -->
 ::
 
 ::u-page-section
@@ -57,7 +45,7 @@ High Quality Scripts
   color: neutral
   size: lg
   target: _blank
-  to: https://ui.nuxt.com/getting-started/installation/pro/nuxt
+  to: https://store.rxscripts.xyz/scripts
   trailingIcon: i-lucide-arrow-right
   variant: subtle
   ---
@@ -71,7 +59,7 @@ High Quality Scripts
   ---
   #title
   Easy Setup
-  
+
   #description
   Our scripts are easy to set up and use. You can have the scripts running in no time.
   :::
@@ -82,7 +70,7 @@ High Quality Scripts
   ---
   #title
   Active Support
-  
+
   #description
   Our support team is always ready to help you with any issues you might have.
   :::
@@ -93,7 +81,7 @@ High Quality Scripts
   ---
   #title
   Secure
-  
+
   #description
   Our scripts are secure and safe to use. Offering no vulnerabilities to abuse.
   :::
@@ -104,7 +92,7 @@ High Quality Scripts
   ---
   #title
   Optimized
-  
+
   #description
   Optimized for performance, our scripts are lightweight and won't slow down your server.
   :::
@@ -126,7 +114,7 @@ High Quality Scripts
   ---
   #title
   Compatibility
-  
+
   #description
   We provide scripts for ESX, QBCore & QBox, with all dependency scripts code open-source.
   :::
@@ -136,20 +124,13 @@ High Quality Scripts
   :::u-page-c-t-a
   ---
   links:
-    - label: Buy now
-      to: https://ui.nuxt.com/pro/purchase
+    - label: Visit Store
+      to: https://store.rxscripts.xyz/
       target: _blank
       icon: i-lucide-shopping-cart
       color: neutral
-    - label: License
-      to: https://ui.nuxt.com/getting-started/license
-      trailingIcon: i-lucide-circle-help
-      target: _blank
-      color: neutral
-      variant: subtle
-  description: Nuxt UI Pro is free in development, but you need a license to use
-    it in production.
-  title: Start with Nuxt UI Pro today!
+  description: RX Scripts is offering a wide collection of high quality scripts that are user-friendly to setup.
+  title: Increase your players with RX today!
   variant: subtle
   ---
   :::

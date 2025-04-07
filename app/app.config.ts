@@ -2,7 +2,7 @@ export default defineAppConfig({
   ui: {
     colors: {
       primary: 'rx',
-      neutral: 'slate'
+      neutral: 'zinc'
     }
   },
   uiPro: {
