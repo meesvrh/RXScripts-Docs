@@ -54,12 +54,12 @@ export default defineNuxtConfig({
   },
 
   llms: {
-    domain: 'https://docs-template.nuxt.dev/',
-    title: 'Nuxt UI Pro - Docs template',
-    description: 'A template for building documentation with Nuxt UI Pro and Nuxt Content',
+    domain: 'https://docs.rxscripts.xyz/',
+    title: 'RX Scripts - Documentation',
+    description: 'RX Scripts offers premium FiveM scripts to enhance your roleplay server. Find complete documentation for installation, configuration, and customization of all our products.',
     full: {
-      title: 'Nuxt UI Pro - Docs template Full Documentation',
-      description: 'This is the full documentation for the Nuxt UI Pro - Docs template'
+      title: 'RX Scripts - Documentation Full Documentation',
+      description: 'This is the full documentation for the RX Scripts - Documentation'
     },
     sections: [
       {
@@ -74,6 +74,13 @@ export default defineNuxtConfig({
         contentCollection: 'docs',
         contentFilters: [
           { field: 'path', operator: 'LIKE', value: '/essentials%' }
+        ]
+      },
+      {
+        title: 'Scripts',
+        contentCollection: 'docs',
+        contentFilters: [
+          { field: 'path', operator: 'LIKE', value: '/scripts%' }
         ]
       }
     ]
